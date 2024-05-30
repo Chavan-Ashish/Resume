@@ -1,1 +1,1 @@
-<a href="Ashish_Chavan_Resumee.pdf" class="image fit"></a>
+![image](https://github.com/Chavan-Ashish/Resume/assets/47237506/2a634d15-cd11-45de-928d-d0c32dd2022b)![image](https://github.com/Chavan-Ashish/Resume/assets/47237506/ec1b89b2-4cc0-4a1b-999e-25500d8e57f7)
