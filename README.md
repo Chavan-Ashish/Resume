@@ -1,1 +1,1 @@
-Here id my resume, Please have a look.
+<a href="Ashish_Chavan_Resumee.pdf" class="image fit"></a>
